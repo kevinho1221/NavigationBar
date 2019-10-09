@@ -37,3 +37,13 @@ nav {
   font-weight: bold;
   font-size: 14px;
 }
+
+.burger {
+  display: none;
+}
+.burger div {
+  width: 25px;
+  height: 3px;
+  background-color: rgba(255, 255, 255, 0.932);
+  margin: 5px;
+}
